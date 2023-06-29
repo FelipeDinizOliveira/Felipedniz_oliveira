@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @lipedniz47
+- 👋 OI SOU FELIPE DINIZ
 - 👀 I’m interested in ... HTML, CSS, JAVASCRIPT
 - 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me ... lipedniz47@gmail.com
 
 <!---
 lipedniz47/lipedniz47 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
